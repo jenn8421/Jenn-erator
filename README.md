@@ -1,4 +1,4 @@
-# Jenn-erator Password Generator
+# Jenn-erator Password Generator🔐
 
 A Python-based password generator that creates strong, secure passwords following NIST guidelines.
 
@@ -6,7 +6,7 @@ A Python-based password generator that creates strong, secure passwords followin
 
 Jenn-erator is a command-line password generator tool that creates customizable passwords with varying character types. The application not only generates passwords but also evaluates their strength based on the latest NIST (National Institute of Standards and Technology) guidelines, which emphasize password length over complexity.
 
-## Features
+## Features 💡
 
 - Generate passwords with customizable numbers of letters, symbols, and numbers
 - Randomize character placement for enhanced security
@@ -14,7 +14,7 @@ Jenn-erator is a command-line password generator tool that creates customizable 
 - Provide informational feedback on character variety
 - Error handling for invalid inputs
 
-## NIST Compliance
+## NIST Compliance ☑️
 
 This password generator follows current NIST password guidelines by:
 - Emphasizing password length (minimum 8 characters, recommending 12+ characters)
@@ -23,7 +23,7 @@ This password generator follows current NIST password guidelines by:
 - Focusing on usable security principles
 
 
-## Usage
+## Usage 💻
 
 1. Run the script
 2. Follow the prompts
@@ -51,7 +51,7 @@ Feedback:
 ```
 
 
-## Learn all the things!!
+## Learn all the things!!🌟
 
 Through this project, I developed skills in:
 - Python string manipulation and random selection
@@ -67,7 +67,7 @@ Potential future improvements include:
 - Additional password strength metrics
 - Checking against compromised password databases
 
-## License
+## License 📝
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
