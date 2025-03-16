@@ -42,7 +42,7 @@ How many symbols would you like?
 How many numbers would you like?
 4
 -------------------------------------
-Your password is: aB7c$dE8f@gH9i#2
+Your password is: 8xvL!Dn8l%P$t96pd
 Length: 17 characters
 Strength: Strong 3/3
 
